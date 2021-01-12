@@ -5,9 +5,6 @@
  
  */
 
-session_name('devopsassessment');
-session_start();
-
 Class Survey
 {
 	public $sections;
